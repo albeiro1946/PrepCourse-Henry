@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 PrepCourse Henry
+
+este proyecto es una prubadecomo clonar un reposiutorio y guardarlo la pija
